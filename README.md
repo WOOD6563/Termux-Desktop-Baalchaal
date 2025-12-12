@@ -1,5 +1,5 @@
 # Termux-Desktop
-Easily set up a full Linux desktop environment on Android using Termux with hardware acceleration and audio support. PRoot Debian/Ubuntu for full package compatibility
+Easily set up a full Linux desktop environment on Android using Termux with hardware acceleration and audio support. PRoot Debian distro container for full package compatibility
 
 ---
 
