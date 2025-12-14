@@ -81,7 +81,7 @@ Run it and enjoy!
 ## How to use the Desktop
 In order to know how to use the desktop, what's the command to start the desktop, how to use PRoot applications on Termux native and many other utilities, just tap on *Click here* button
 
-### [Click here](/Docs/Termux/desktop-usage)
+### [Click here](/Docs/Termux/termux_desktop_usage)
 
 ---
 <br>
