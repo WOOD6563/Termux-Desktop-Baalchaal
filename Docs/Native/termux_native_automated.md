@@ -13,7 +13,7 @@ Full Termux Desktop installation guide, automatic/script installation
 ## Key Features <a name=key-features></a>
 Here are the goodies of automatic installation
 - **Easy Setup:** Easy auto installation process.
-- **Hardware Acceleration:** Performance boost using your supported hardware. *Currently only implemented for Vulkan-supported Mali GPU and Adreno 6xx/7xx (except: 710, 642L, 720 & 730). If you have non Vulkan supported Mali GPU or other Adreno GPUs then [Click here](/Docs/Termux/hwa_setup.md) or proceed with no hardware acceleration (CPU restririzer*
+- **Hardware Acceleration:** Performance boost using your supported hardware. *Currently only implemented for Vulkan-supported Mali GPU and Adreno 6xx/7xx (except: 710, 642L, 720 & 730). If you have non Vulkan supported Mali GPU or other Adreno GPUs then [Click here](/Docs/Termux/hwa_setup.md) or proceed with no hardware acceleration (CPU Rasterizer)*
 - **Audio Support:** Desktop audio functional
 - **Quick Reminders:** During installation, if you have Termux API installed then it will remind you when there's a user input needed by using Android's TTS
 - **One-Click Browser Installation:** Firefox, Chromium
