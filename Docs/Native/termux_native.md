@@ -101,6 +101,8 @@ In order to get hardware acceleration run following commands:
 > For peoples who have any other Adreno or PowerVR GPU, skip HWA (stick with CPU rasterization) and go to next navigation/section or check out [Hardware Acceleration Setup](/Docs/Termux/hwa_setup.md)
 If you have Mali GPU with Vulkan-supported or Adreno 6xx/7xx (except: 710, 642L, 720 & 730), proceed:
 
+<br>
+
 <details>
   <summary>Tap if you have Vulkan supported Mali GPU</summary>
 
