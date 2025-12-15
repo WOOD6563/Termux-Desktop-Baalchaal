@@ -20,7 +20,7 @@ How to setup Hardware Acceleration in Termux.
 > After listening to above criteria, even if you need some sort of HWA, then check out DroidMaster's terminology and his Hardware Acceleration setup, it may help you. Check it out by [Clicking here](https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/HardwareAcceleration.md)
 
 > [!WARNING]
-> You use setup the desktop using my setup from repository (whether it's Automatic Installation or Manual) and followed each instructions then you won't need to setup Hardware Acceleration again manually, you can skip this.
+> If you install the desktop from this repository (whether it's Automatic Installation or Manual) and followed each instructions then you won't need to setup Hardware Acceleration again manually, you can skip this.
 
 ---
 <br>
