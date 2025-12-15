@@ -194,6 +194,11 @@ source .bashrc
 ```
 To check what script does what you can run `desktop-help` for check-in each scripts work.
 
+Also install a Debian as PRoot container, for extended package compatibility:
+```
+proot-distro install debian
+```
+
 **User-friendly scripts installation is completed**
 
 ---
