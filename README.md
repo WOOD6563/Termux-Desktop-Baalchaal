@@ -106,7 +106,7 @@ Click on the different text to see how you can install PRoot distributions of yo
 ### [Click here](/Docs/PRoot/proot_distro.md)
 
 > [!WARNING]
-> Not recommended, because of slowness and instability check *How to install Full Termux Desktop* because if you use the manual or automated process you can also utilise PRoot usage into your Termux native desktop, so you can use PRoot commands and apps on Termux native so you desktop and other applications performance gets no impact meaning HW accelerated
+> Not recommended, because if you run whole desktop inside PRoot environment, it will make your experience worse, because PRoot is slow. The reason I am telling to skip this because my installation process has a script using that you run run commands and applications on native, so your desktop performance gets no impact. This means your Termux native will be the main environment where you will run everything for performance, but for custom packages compatibility you can use my script to run certain applications which are installed inside PRoot environment, instead of running whole desktop, it will be visible & usable on Termux native desktop.
 
 ---
 <br>
