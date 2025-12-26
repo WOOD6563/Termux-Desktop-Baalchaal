@@ -5,6 +5,7 @@ How you can run the desktop, what are the wrapper commands, etc.
 - **[Fix Slow APT/PKG install speed](#slow-speed)**
 - **[Run Applications using CPU instead of GPU](#app-cpu)**
 - **[Run apps from PRoot on Desktop](#proot-on-native)**
+- **[Extract or Archive Anything using a single command](#bhai)**
 - **[Daily-life Storage Cleaner](#cleaner)**
 - **[How to stop the desktop](#stop-desktop)**
 - **[In-built Command to know all of these](#huh)**
@@ -72,6 +73,24 @@ Yes, arguments are supported, and it's needed to run the Vesktop. It will run in
 At the same way, you can execute CLI commands inside PRoot from Termux native, though it's not recommended.
 
 --- 
+<br>
+
+## Extract or archive anything using a single command <a name=extraction></a>
+Instead of multiple commands for extracting each files, or creating multiple archives. you can use my useful command 
+
+For extracting anything, run:
+```
+extract -x filename.anything
+```
+like `extract -x filename.zip`
+
+For creating any archive format, run:
+```
+extract -a filename.anything file1 file2 dir1 dir/dir/file1
+```
+like `extract -a backup.tar.gz .config .bashrc .themes .icons`
+
+---
 <br>
 
 ## Storage cleaner <a name=cleaner></a>
