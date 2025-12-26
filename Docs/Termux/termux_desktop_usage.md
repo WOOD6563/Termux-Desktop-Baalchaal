@@ -5,7 +5,7 @@ How you can run the desktop, what are the wrapper commands, etc.
 - **[Fix Slow APT/PKG install speed](#slow-speed)**
 - **[Run Applications using CPU instead of GPU](#app-cpu)**
 - **[Run apps from PRoot on Desktop](#proot-on-native)**
-- **[Extract or Archive Anything using a single command](#bhai)**
+- **[Extract or Archive Anything using a single command](#extraction)**
 - **[Daily-life Storage Cleaner](#cleaner)**
 - **[How to stop the desktop](#stop-desktop)**
 - **[In-built Command to know all of these](#huh)**
