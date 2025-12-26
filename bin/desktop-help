@@ -47,3 +47,19 @@ echo
 echo -e "${BOLD_RED}Important: Run native_cleaner only after closing the desktop and all running processes.${RESET}"
 echo
 echo "---------------"
+
+echo -e "To extract any archive or create any archive use the command:"
+echo -e "  ${BOLD_CYAN}extract <args>${RESET}"
+echo -e "Examples"
+echo -e 
+echo -e "For extracting any archive:"
+echo -e " ${BOLD_CYAN}extract -x file.tar.gz${RESET}"
+echo -e " ${BOLD_CYAN}extract -x file.zip${RESET}"
+echo -e 
+echo -e "For creating any archive format:"
+echo -e " ${BOLD_CYAN}extract -a <file-name.anything> <file1> <file2> <dir1>${RESET}"
+echo "Example:"
+echo -e " ${BOLD_CYAN}extract -a file.tar.gz .bashrc file.sh ~/dir/dir/file dir1${RESET}"
+echo -e " ${BOLD_CYAN}extract -a file.zip .bashrc file.sh ~/dir/dir/file dir1${RESET}"
+
+echo "---------------"
