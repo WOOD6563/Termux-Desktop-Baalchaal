@@ -78,13 +78,13 @@ At the same way, you can execute CLI commands inside PRoot from Termux native, t
 ## Extract or archive anything using a single command <a name=extraction></a>
 Instead of multiple commands for extracting each files, or creating multiple archives. you can use my useful command 
 
-For extracting anything, run:
+**For extracting anything, run:**
 ```
 extract -x filename.anything
 ```
 like `extract -x filename.zip`
 
-For creating any archive format, run:
+**For creating any archive format, run:**
 ```
 extract -a filename.anything file1 file2 dir1 dir/dir/file1
 ```
