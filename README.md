@@ -1,8 +1,8 @@
 # Termux-Desktop
 **Install a full Linux desktop environment on your Android device with Termux X11 and also with hardware acceleration alongwith desktop audio functional**
 
-### Initial release 
-If you find any error, bug, glitch or something is not working. Please contact me on my Discord server, link is on the repository website, or create an issue.
+### Potential Issues
+GL Hardware Acceleration for Adreno 6xx/7xx GPUs *(except few specific ones, mentioned in the hwa setup)* may not work. Vulkan acceleration may work but GL may not. Since I do not have a Adreno GPU, one of you Adreno 6xx/7xx users have to contact for on Discord, so I can test what is happening
 
 ---
 <br>
