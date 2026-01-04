@@ -196,7 +196,7 @@ https://raw.githubusercontent.com/Prime-TITAN-CameraMan/Termux-Desktop/refs/head
       break
       ;;
     *)
-      echo -e "{BLOD_RED}Invalid option, please try again!"
+      echo -e "{BOLD_RED}Invalid option, please try again!${RESET}"
       sleep 1
       ;;
   esac
