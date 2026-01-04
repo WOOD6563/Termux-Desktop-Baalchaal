@@ -475,7 +475,7 @@ apt install -y nano
 apt install -y dbus-x11
 apt install -y adduser
 apt install -y pulseaudio
-mkdir "$HOME/bin"
+mkdir -p "$HOME/bin"
 EOF
 
 echo -e "${BOLD_GREEN}Done Successfully...${RESET}"
