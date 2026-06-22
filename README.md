@@ -50,17 +50,17 @@ We are going to use Termux and Termux X11 in order to have a full Linux Desktop 
 
 Update & Upgrade all of Termux packages:
 ```
-pkg update
-pkg upgrade -y
+apt update
+apt upgrade -y
 ```
 Install essential packages in Termux:
 ```
-pkg install -y x11-repo
-pkg install -y termux-x11-nightly
-pkg install -y pulseaudio
-pkg install -y tur-repo
-pkg install -y termux-api
-pkg install -y proot-distro
+apt install -y x11-repo
+apt install -y termux-x11-nightly
+apt install -y pulseaudio
+apt install -y tur-repo
+apt install -y termux-api
+apt install -y proot-distro
 ```
 
 ---
