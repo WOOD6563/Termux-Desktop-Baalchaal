@@ -55,12 +55,10 @@ apt upgrade -y
 ```
 Install essential packages in Termux:
 ```
-apt install -y x11-repo
-apt install -y termux-x11-nightly
-apt install -y pulseaudio
-apt install -y tur-repo
-apt install -y termux-api
-apt install -y proot-distro
+apt install x11-repo -y
+apt install termux-x11 -y
+apt install pulseaudio -y
+apt install tur-repo -y
 ```
 
 ---
